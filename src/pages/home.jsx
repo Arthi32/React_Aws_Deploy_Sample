@@ -64,7 +64,7 @@ export default function Home() {
                                     <img src={service_3} alt="max" />
                                 </div>
                                 <div className="body">
-                                    <h5 className="text-secondary">Keyword Research</h5>
+                                    <h5 className="text-secondary">RESEARCH</h5>
                                     <p>We help you define your SEO objective &amp; develop a realistic strategy with you</p>
                                 </div>
                             </div>
